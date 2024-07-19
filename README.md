@@ -1,7 +1,10 @@
 # React Price Card Task
-This project is a simple React application that displays a responsive price card interface. The application showcases three pricing plans: Free, Plus, and Pro, with various features listed for each plan.
+
+This project is a simple React application that displays a responsive price card interface. 
+The application showcases three pricing plans: Free, Plus, and Pro, with various features listed for each plan.
 
 ## Features
+
 - Displays three pricing plans with features.
 - Uses React and JSX for dynamic rendering.
 - Includes a grey line before the features list in each card.
@@ -10,6 +13,7 @@ This project is a simple React application that displays a responsive price card
 - Unavailable features are marked with a cross (✗), styled in light grey.
 
 ### Project Structure
+
 price-cards/
 ├── public/
 │   └── index.html
@@ -27,9 +31,11 @@ price-cards/
 ├── vite.config.js
 
 #### License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##### Acknowledgements
-React
-Node.js
-Create React App
+
+1. React
+2. Node.js
+3. Create React App
